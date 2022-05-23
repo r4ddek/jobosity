@@ -19,14 +19,14 @@ Before installing the dependencies, create and start a virtual environment:
   
 Linux and macOS:
 ```
-source bin/activate
+source automation_project/Scripts/activate
 ```
 
 Windows:
 ```
-Scripts\activate
+automation_project\Scripts\activate
 ```
-You should see the name of your virtual environment in brackets on your terminal line e.g. (jobosity).
+You should see the name of your virtual environment in brackets on your terminal line e.g. (automation_project).
 
 ### ☕Installing Dependencies
 
