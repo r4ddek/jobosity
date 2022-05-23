@@ -14,7 +14,7 @@ pip install virtualenv
 Before installing the dependencies, create and start a virtual environment:
 
 1. Head over to the project root folder `jobosity`;
-2. Create the virtualenv `virtualenv .`
+2. Create the virtualenv `virtualenv automation_project`
 3. Start the virtualenv:
   
 Linux and macOS:
